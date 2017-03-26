@@ -1,2 +1,3 @@
 this is file from a new feature of the project.
-done.
+
+add new line to the file.
